@@ -1,0 +1,58 @@
+[
+    {
+        "id": "8e0a80ce-8e2a-486b-8133-54676cbeaa9b",
+        "property_id": "073da0c0-4067-452b-8903-0f7b505925e3",
+        "from": 1686583845000,
+        "to": 1687116645000,
+        "tenant_name": "Saba Mullen"
+    },
+    {
+        "id": "4e2d0acd-8ce0-4355-8736-8465d8e68b5c",
+        "property_id": "dd6b6265-5f68-4252-a0f5-d2f25f6d9acb",
+        "from": 1686733932000,
+        "to": 1687005775000,
+        "tenant_name": "Donovan Harrell"
+    },
+    {
+        "id": "bc006caa-fbb7-4ca0-975a-baeac64dc145",
+        "property_id": "0c7e6a85-274d-4c44-8ed4-305c1e066237",
+        "from": 1686920502000,
+        "to": 1687212582000,
+        "tenant_name": "Rafael Vance"
+    },
+    {
+        "id": "daefd702-6e02-4b61-b148-3693c4aa0ce6",
+        "property_id": "5fe930af-d59a-4e00-ba23-0f49d4f2600a",
+        "from": 1687234182000,
+        "to": 1687335780000,
+        "tenant_name": "Stanley Frederick"
+    },
+    {
+        "id": "b3b1137d-46c4-4953-90f0-cb4ee206a3c7",
+        "property_id": "25f226c5-d414-4930-a6d5-8014f41e9f19",
+        "from": 1687257230000,
+        "to": 1687529542000,
+        "tenant_name": "Maliha Cain"
+    },
+    {
+        "id": "9866aeae-b607-4a7c-81c9-51356f37606a",
+        "property_id": "7d4532cd-d966-4a79-a63f-d60e4a83724a",
+        "from": 1687549477000,
+        "to": 1687953600000,
+        "tenant_name": "Eva Heath"
+    },
+    {
+        "id": "f385b9d8-e12a-4258-99d7-a3c176c6c1f8",
+        "property_id": "dd6b6265-5f68-4252-a0f5-d2f25f6d9acb",
+        "from": 1687493983000,
+        "to": 1687677721000,
+        "tenant_name": "Katy Serrano"
+    },
+    {
+        "id": "9b8bdd96-c489-454a-86d7-0ecd88864f70",
+        "property_id": "5fe930af-d59a-4e00-ba23-0f49d4f2600a",
+        "from": 1687594329000,
+        "to": 1687640743000,
+        "tenant_name": "Princess Schneider"
+    }
+]
